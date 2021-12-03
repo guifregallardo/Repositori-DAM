@@ -1,3 +1,3 @@
 # Repositori-DAM
-prova de ridmi asasdadsadsadas
+prova de readme asasdadsadsadas
 hi guifre 
